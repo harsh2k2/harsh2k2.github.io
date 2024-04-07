@@ -76,8 +76,7 @@ const CONFIG = {
     email: 'harsh622k@gmail.com',
   },
   resume: {
-    fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl:'https://bit.ly/Harsh_Kumar_Resume', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
@@ -106,12 +105,12 @@ const CONFIG = {
     // },
   ],
   certifications: [
-    {
-      // name: 'Lorem ipsum',
-      // body: 'Lorem ipsum dolor sit amet',
-      // year: 'March 2022',
-      // link: 'https://example.com',
-    },
+    // {
+    //   name: 'AWS Academy Machine Learning Foundations',
+    //   body: 'Lorem ipsum dolor sit amet',
+    //   year: 'March 2022',
+    //   link: 'https://example.com',
+    // },
   ],
   educations: [
     {
